@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>html/INFOCop.html</file>
+        <file>html/INFOGeneral.html</file>
+        <file>html/INFOPlatforms.html</file>
+        <file>html/TIGERAnalytics.html</file>
+        <file>html/TIGEREmail.html</file>
+        <file>html/TIGERInsider.html</file>
+        <file>html/TIGERMemoryIntegrity.html</file>
+        <file>html/TIGERThreat.html</file>
+        <file>html/help1.html</file>
+        <file>html/help2.html</file>
+        <file>html/help3.html</file>
+        <file>html/help4.html</file>
+        <file>html/help5.html</file>
+        <file>html/help6.html</file>
+        <file>html/help7.html</file>
+        <file>html/styles.css</file>
+        <file>html/maintenance.html</file>
+    </qresource>
+</RCC>

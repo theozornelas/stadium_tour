@@ -1,0 +1,44 @@
+# database
+data.db
+# QT
+*.pro.user
+*.pro.user.*
+*.moc
+*.qbs.user.*
+*.qbs.user
+moc_*.cpp
+qrc_*.cpp
+*-build-*
+Makefile*
+ui_*.h
+*.autosave
+/.qmake.cache
+/.qmake.stash
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app

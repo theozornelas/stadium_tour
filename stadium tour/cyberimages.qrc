@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/tiger.png</file>
+        <file>images/tiger-click.png</file>
+        <file>images/tiger-hover.png</file>
+        <file>images/tiger.jpg</file>
+        <file>images/tiger2.jpg</file>
+        <file>images/tiger3.jpg</file>
+        <file>images/tiger4.jpg</file>
+        <file>images/tiger5.jpg</file>
+        <file>images/bimbo.png</file>
+        <file>images/apple.png</file>
+        <file>images/h3h3.png</file>
+        <file>images/usdod.png</file>
+        <file>images/cnooc.png</file>
+        <file>images/slowmatrix.gif</file>
+        <file>images/welcome.png</file>
+        <file>images/welcome-click.png</file>
+        <file>images/welcome-hover.png</file>
+        <file>images/TIGERtitle.png</file>
+        <file>images/analytics.png</file>
+        <file>images/email.png</file>
+        <file>images/InsiderThreat.png</file>
+        <file>images/memory.png</file>
+        <file>images/ThreatProtection.png</file>
+        <file>images/tiger_default.png</file>
+    </qresource>
+</RCC>
